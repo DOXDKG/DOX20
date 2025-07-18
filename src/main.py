@@ -10,7 +10,7 @@ import time
 load_dotenv()
 
 # Secure configuration
-API_TOKEN = "7597217793:s1Kq29Mq"
+API_TOKEN = "8126813823:xSi9pSiP"
 API_URL = os.getenv("API_URL", "https://leakosintapi.com/")
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME", "admin")
 ADMIN_PASSWORD_HASH = os.getenv("ADMIN_PASSWORD_HASH")
